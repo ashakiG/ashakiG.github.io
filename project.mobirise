@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Log In Site",
-    "currentPage": "Home.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -181,7 +181,7 @@
         }
       ]
     },
-    "Home.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "Home",
